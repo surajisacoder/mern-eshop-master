@@ -1,6 +1,6 @@
 ## MERN-ESHOP
 
-![eshop](/frontend/images/eshop.png)
+![eshop](/mern-eshop-master/frontend/images/eshop.png)
 
 # React Tutorial - Build ECommerce in 6 Hours [2022]
 
