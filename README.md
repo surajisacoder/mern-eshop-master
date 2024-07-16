@@ -2,7 +2,7 @@
 
 ![eshop](/mern-eshop-master/frontend/images/eshop.png)
 
-# React Tutorial - Build ECommerce in 6 Hours [2022]
+# React Tutorial - Build ECommerce in 6 Hours [2023]
 
 Welcome to my React and Node project to build a fully-functional e-commerce website exactly like amazon using MERN stack (MongoDB, ExpressJS, React and Node.JS).
 
@@ -70,8 +70,6 @@ $ npm start
 ## Support
 
 - Contact Me: [Mbedobe](mailto:reinittservices@gmail.com)
-
-## This project was built thanks to a tutorial by [@basir](https://github.com/basir)
 
     - The lessons structure is detailed below:
 
